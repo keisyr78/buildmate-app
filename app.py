@@ -6,8 +6,8 @@ from elevenlabs import VoiceSettings
 from io import BytesIO
 
 # Your keys (paste full)
-API_KEY = "your-xai-key-here"  # xAI key from Step 1
-ELEVENLABS_KEY = "sk_90bee402a6881bb548c8dba2200af80f39498b7980ceeadc"  # ElevenLabs key from Step 4
+
+
 
 st.title("BuildMate – Your Construction Recruitment Mate")
 
