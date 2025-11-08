@@ -6,7 +6,8 @@ from elevenlabs import VoiceSettings
 from io import BytesIO
 
 # Your keys (paste full)
-
+API_KEY = st.secrets["API_KEY"]
+ELEVENLABS_KEY = st.secrets["ELEVENLABS_KEY"]
 
 
 st.title("BuildMate – Your Construction Recruitment Mate")
